@@ -17,7 +17,7 @@ Dự án này thực hiện việc phân tích và thống kê dữ liệu Xổ 
 
 1. Clone dự án về máy tính của bạn:
     ```
-    git clone https://github.com/hukhho/xsmb_statistics_analysis.git
+    git clone https://github.com/hukhho/xosomienbac_statistics_analysis.git
     ```
 2. Cài đặt môi trường và các thư viện cần thiết:
     ```
